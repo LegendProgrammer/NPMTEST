@@ -1,5 +1,8 @@
 {
-  "name": "legend_programmer_test_npm",
+  "name": "@legendprogrammer/npmtest",
+  "publishConfig": {
+    "registry": "https://github.com/LegendProgrammer/TestNPM"
+  },
   "version": "0.1.0",
   "description": "A simple lib ",
   "dependencies": {
